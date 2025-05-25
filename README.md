@@ -56,12 +56,14 @@ A custom CRM mobile application for the City Administration of Yakutsk:
 ### 2. In-Reservy
 A service for booking tables at restaurants:
 - Google Play: [In-Reservy](https://play.google.com/store/apps/details?id=ru.inreservy.in_reservy_app)
-- App Store: [In-Reservy](https://play.google.com/store/apps/details?id=ru.inreservy.in_reservy_app)
+- App Store: [In-Reservy](https://apps.apple.com/de/app/in-reservy/id6587549521)
 
 ### 3. Wrestling (pet project)
 A news app dedicated to wrestling and combat sports:
 - Latest news, comment and discuss with other users
 - Watch tournament replays, exclusive interviews with athletes and coaches, and expert blogs
+- Google Play: [Wrestling Hub](https://play.google.com/store/apps/details?id=ru.amonlexasoftware.wresthub)
+- App Store: [Wrestling Hub](https://apps.apple.com/ru/app/wrestling-hub/id6741020047p)
 
 ## 🎮 A Bit About Me
 
@@ -70,9 +72,9 @@ I enjoy playing PUBG, following UFC, wrestling, and football. Always open to new
 ### Contact with me
 <div class="image-row">
 <a href="https://amonlexa.ru">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" height="42"/>
+    <img src="https://www.iconsdb.com/icons/preview/yellow/html-xxl.png"/>
   </a>
-  <a href="mailto:ivangalkindeveloper@gmail.com">
+  <a href="mailto:struckovaleksej561@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" />
   </a>
   <a href="https://t.me/amonlexa">
