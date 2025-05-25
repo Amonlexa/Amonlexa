@@ -12,13 +12,13 @@ I enjoy building modern apps that make life simpler and more convenient.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="42" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/ivangalkindeveloper/content/refs/heads/main/swift-ui.svg" height="42" />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/121px-Java_logo.svg.png" height="42" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/250px-PHP-logo.svg.png" height="42" />
+  <img width="12" />
+  <img src="https://website.vaadin.com/hubfs/Blog/vaadin-kotlin/Kotlin-logo.svg" height="42" />
   <img width="12" />
 </div>
 <div align="left">
@@ -42,8 +42,6 @@ I enjoy building modern apps that make life simpler and more convenient.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" />
-  <img src="https://website.vaadin.com/hubfs/Blog/vaadin-kotlin/Kotlin-logo.svg" height="42" />
-  <img width="12" />
 </div>
 
 ## 🏆 Featured Projects
@@ -72,7 +70,7 @@ I enjoy playing PUBG, following UFC, wrestling, and football. Always open to new
 ### Contact with me
 <div class="image-row">
 <a href="https://amonlexa.ru">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" height="42"/>
   </a>
   <a href="mailto:ivangalkindeveloper@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" />
