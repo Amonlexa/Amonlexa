@@ -80,7 +80,7 @@ I enjoy playing PUBG, following UFC, wrestling, and football. Always open to new
   <a href="https://t.me/amonlexa">
     <img src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/amonlexa">
+  <a href="https://www.instagram.com/amonlexa">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
