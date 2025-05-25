@@ -72,7 +72,7 @@ I enjoy playing PUBG, following UFC, wrestling, and football. Always open to new
 ### Contact with me
 <div class="image-row">
 <a href="https://amonlexa.ru">
-    <img src="https://www.iconsdb.com/icons/preview/yellow/html-xxl.png" width="128px" height="50px"/>
+    <img src="https://www.iconsdb.com/icons/preview/yellow/html-xxl.png" width="128px" height="128px"/>
   </a>
   <a href="mailto:struckovaleksej561@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" />
