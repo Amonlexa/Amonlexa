@@ -1,6 +1,6 @@
 ## Hello there 👋
 ### My name is Alexey
-### I'm Mobile Software Engineer
+### I'm Mobile Developer
 
 I’m a FullStack developer with a strong focus on mobile development using Flutter.\
 I enjoy building modern apps that make life simpler and more convenient.
