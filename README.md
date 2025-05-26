@@ -3,7 +3,6 @@
 ### I'm Mobile Developer
 
 I’m a FullStack developer with a strong focus on mobile development using Flutter.\
-I enjoy building modern apps that make life simpler and more convenient.
 #
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" />
